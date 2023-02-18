@@ -1,2 +1,3 @@
-# flappy_bird
-The first pygame project by Clear Code tutorial.
+# Flappy Bird game replica with Pygame
+
+The first pygame project by Clear Code tutorial
